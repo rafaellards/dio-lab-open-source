@@ -6,12 +6,6 @@
 <br>
 <br>
 
-<div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D==rafaellards&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellards&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&theme=dracula" />
-</div>
-<br>
-
 [![Rafaella's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaellards&bg_color=none&color=00bfbf&line=00bfbf&point=b8cad4&area=true&hide_border=false)](https://gith>
 
 <br>
